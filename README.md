@@ -1,24 +1,24 @@
-# IBC
+<h1 align="center"> IBC </h1>
 
 ![banner](./assets/interchain-standards-image.jpg)
 
-## Synopsis
+## Özet
 
-This repository is the canonical location for development and documentation of the inter-blockchain communication protocol (IBC).
+Bu repository blok zincirler arası iletişim protokolünün (IBC) geliştirilmesi ve belgelenmesi için standart konumdur.
 
-It shall be used to consolidate design rationale, protocol semantics, and encoding descriptions for IBC, including both the core transport, authentication, & ordering layer (IBC/TAO) and the application layers describing packet encoding & processing semantics (IBC/APP).
+Hem çekirdek aktarım, kimlik doğrulama ve sipariş katmanı (IBC/TAO) hem de paket kodlama ve işleme anlambilimini (IBC/APP) açıklayan uygulama katmanları dahil olmak üzere, tasarım mantığı, protokol semantiği ve IBC için kodlama açıklamalarını birleştirmek için kullanılacaktır.
 
-Contributions are welcome. See [CONTRIBUTING.md](meta/CONTRIBUTING.md) for contribution guidelines.
+Katkılara açığız. Katkı yönergeleri için [CONTRIBUTING.md](meta/CONTRIBUTING.md) bölümüne bakın.
 
-See [ROADMAP.md](meta/ROADMAP.md) for a public up-to-date version of our roadmap.
+Yol haritamızın herkese açık güncel bir sürümü için [ROADMAP.md](meta/ROADMAP.md) adresine bakın.
 
-## What is IBC?
+## IBC Nedir?
 
-For a high-level explanation of what IBC is and how it works, please read [this blog post](https://blog.cosmos.network/eli5-what-is-ibc-a212f518715f).
+IBC'nin ne olduğuna ve nasıl çalıştığına ilişkin üst düzey bir açıklama için lütfen [bu blog gönderisini](https://blog.cosmos.network/eli5-what-is-ibc-a212f518715f) okuyun.
 
-## Interchain Standards
+## Zincirler Arası Standartlar
 
-All standards at or past the "Draft" stage are listed here in order of their ICS numbers, sorted by category.
+"Taslak" aşamasındaki veya bundan sonraki tüm standartlar, kategoriye göre sıralanmış ICS numaralarına göre burada listelenir.
 
 ### Meta
 
